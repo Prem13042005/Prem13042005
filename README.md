@@ -1,4 +1,4 @@
-# Hi, I'm Prem Rajput 👋
+# Hi, I'm Prem Rajendra Rajput 👋
 
 ### Aspiring AI Engineer | Building Production AI Systems
 
